@@ -1,0 +1,5 @@
+singleButton({name:"Led On", action:"digitalWrite", 
+              pin:"0", value:"HIGH"})
+
+singleButton({name:"Led Off", action:"digitalWrite", 
+              pin:"0", value:"LOW"})
